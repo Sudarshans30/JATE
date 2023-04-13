@@ -17,3 +17,11 @@ Thi is a single page text editor that runs in browser and meets the PWA criteria
 * [Installation](#Installation)
 * [Demonstration](#Demonstration)
 * [License](#License)
+
+### Installation
+* Clone this repository and run an integrated terminal.
+* Install the required packages using npm install.
+* Start the server using npm start.
+
+### License
+
